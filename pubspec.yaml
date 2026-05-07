@@ -50,6 +50,14 @@ dependencies:
   open_filex: ^4.7.0
   image_picker: ^1.2.1
 
+
+  google_maps_flutter: ^2.17.0
+  flutter_map: ^6.0.0
+  latlong2: ^0.9.0
+
+
+
+
 # live message, realtime data update, no need refresh like web socket
 #  pusher_channels_flutter: ^2.6.0
 
